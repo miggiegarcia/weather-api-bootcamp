@@ -52,4 +52,3 @@ document.getElementById('weather').addEventListener('click', ()=>{
 
     })
 })
-//worked on this code with my group members: Chi, Ken, Sam, Shane, and Zikre with guidedance from mentors: George and Philip during community day 
